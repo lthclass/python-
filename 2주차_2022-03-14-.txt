@@ -1,0 +1,34 @@
+'''
+2022_03_14
+2주차 수업
+'''
+'''
+
+print('hello') ;
+print("hello") ;
+
+print( "He's name is 태현")
+print( 'He said "I am Ok!" ')
+
+print( "He said \ " I am OK!\" ")
+'''
+'''
+print("a" * 10)
+
+print("=" * 25)
+print( 'He said "python is Easy" ')
+print("34256곱하기 2365 는", 34256*2365, "입니다")
+print("=" * 25)
+
+print("A")
+print("B")
+'''
+'''
+#\n은 new line을 의미
+print("A\nBC\nDEF") 
+'''
+#=====문자열 슬라이싱(slice)=====
+#print("Hello"[0])
+#print("Hello"[1])
+print("Hello"[-1]) #뒤에서 첫글자
+print("Hello"[0:3]) #0<=범위 <3 까지 출력
